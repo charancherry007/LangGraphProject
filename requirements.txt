@@ -1,0 +1,13 @@
+langgraph
+langchain
+openai
+typer
+rich
+jinja2
+pydantic
+pyyaml
+faiss-cpu
+python-docx
+pymupdf
+pandas
+networkx

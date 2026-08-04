@@ -1,0 +1,2 @@
+class SOPException(Exception):
+    pass

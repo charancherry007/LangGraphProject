@@ -1,0 +1,5 @@
+project:
+  name: LangGraph SOP Generator
+model:
+  name: gpt-5
+  temperature: 0
